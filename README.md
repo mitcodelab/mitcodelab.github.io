@@ -114,7 +114,7 @@ python3 tools/lab_data.py import index.html data/   # also re-hashes the CSP
 
 ## 📬 Contact
 
-✉️ mmfrigillana.au+mitcodelab@gmail.com
+
 
 <div align="center">
 
